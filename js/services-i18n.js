@@ -72,7 +72,7 @@
       srv_s4_h:         "Payment terms",
       srv_s4_li1:       "<strong>50% deposit</strong> on signing the contract — locks the date in the calendar",
       srv_s4_li2:       "<strong>Remaining 50%</strong> within 5 days of delivery",
-      srv_s4_li3:       "DIAN electronic invoice issued to the client",
+      srv_s4_li3:       "Formal payment receipt (cuenta de cobro) issued to the client",
       srv_s4_li4:       "Bank transfer, Bancolombia QR or card via platform",
 
       srv_s5_h:         "Cancellation",
@@ -181,7 +181,7 @@
       srv_s4_h:         "Conditions de paiement",
       srv_s4_li1:       "<strong>Acompte de 50 %</strong> à la signature du contrat — réserve la date",
       srv_s4_li2:       "<strong>Solde de 50 %</strong> sous 5 jours après la livraison",
-      srv_s4_li3:       "Facture électronique DIAN au nom du client",
+      srv_s4_li3:       "Reçu de paiement formel (cuenta de cobro) au nom du client",
       srv_s4_li4:       "Virement, QR Bancolombia ou carte via plateforme",
 
       srv_s5_h:         "Annulation",
@@ -290,7 +290,7 @@
       srv_s4_h:         "Términos de pago",
       srv_s4_li1:       "<strong>50% de anticipo</strong> a la firma del contrato — confirma la fecha en agenda",
       srv_s4_li2:       "<strong>50% restante</strong> dentro de los 5 días posteriores a la entrega",
-      srv_s4_li3:       "Factura electrónica DIAN emitida a nombre del contratante",
+      srv_s4_li3:       "Cuenta de cobro emitida a nombre del contratante",
       srv_s4_li4:       "Transferencia bancaria, Bancolombia QR o tarjeta vía plataforma",
 
       srv_s5_h:         "Cancelación",
